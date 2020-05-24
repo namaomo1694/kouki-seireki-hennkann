@@ -1,1 +1,1 @@
-# kouki-seireki-hennkann
+# 皇紀↔西暦変換
